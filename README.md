@@ -1,0 +1,1 @@
+# fx-rate-batch-stream

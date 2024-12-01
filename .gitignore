@@ -1,0 +1,50 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+*.env.*
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+
+# Byte-compiled and optimized Python files
+*.pyc
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Configurations with sensitive data
+config.yaml
+config.yml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info
+
+scripts1
+dags/kafka_stream.py
